@@ -1,0 +1,16 @@
+.port {
+    background-color: lightpink;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+#stranger {
+    color: blue;
+    font-size: 36px;
+}
+#relative {
+    font-size: 24px;
+}
+#stranger02 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
