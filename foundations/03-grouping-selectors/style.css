@@ -1,4 +1,12 @@
-.button .click {
+.button {
+    color: whitesmoke;
+    background-color: black;
+}
+.click {
+    background-color: yellow;
+    color: black;
+}
+.button, .click {
     font-size: 28px;
     font-family: Helvetica, sans-serif, 'Times New Roman';
 
